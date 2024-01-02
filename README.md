@@ -14,3 +14,10 @@ I am keenly interested in CloudComputing and recently completed bootcamp trainin
 9.	Cloud Computing : Azure (VM, ACR, ACS, Blob, WebApp)  and AWS(EC2, EBS, ECR, RDS, S3)
 10.	Behavioural Skills:
 Growth Mindset,Attention to detail, Team work ,Problem solving , Communication ,Time Management
+
+
+**Certifications:**
+
+1. Oracle Certified Java Professional
+2. Azure Fundamentals
+3. AWS Cloud Practitioner Quest
