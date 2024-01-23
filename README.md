@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java, J2EE , SpringBoot , REST , Microservices , Hibernate, AWS , Azure , Docker and Kubernetes**
 
-- 🌱 I’m currently learning **React , Ansible , Terraform**
+- 🌱 I’m currently learning **Mulesoft**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nandineer](https://github.com/nandineer)
 
